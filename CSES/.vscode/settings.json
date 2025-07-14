@@ -60,6 +60,9 @@
     "iostream": "cpp",
     "ostream": "cpp",
     "vector": "cpp",
-    "queue": "cpp"
+    "queue": "cpp",
+    "ios": "cpp",
+    "deque": "cpp",
+    "string": "cpp"
   }
 }
