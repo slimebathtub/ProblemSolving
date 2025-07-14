@@ -63,6 +63,8 @@
     "queue": "cpp",
     "ios": "cpp",
     "deque": "cpp",
-    "string": "cpp"
+    "string": "cpp",
+    "new": "cpp",
+    "__split_buffer": "cpp"
   }
 }
